@@ -1,0 +1,10 @@
+C:\Users\ING\Desktop\movies-cbsanchez\LaboratorioFinal\LaboratorioFinal\bin\Debug\LaboratorioFinal.exe.config
+C:\Users\ING\Desktop\movies-cbsanchez\LaboratorioFinal\LaboratorioFinal\bin\Debug\LaboratorioFinal.exe
+C:\Users\ING\Desktop\movies-cbsanchez\LaboratorioFinal\LaboratorioFinal\bin\Debug\LaboratorioFinal.pdb
+C:\Users\ING\Desktop\movies-cbsanchez\LaboratorioFinal\LaboratorioFinal\obj\Debug\LaboratorioFinal.csprojResolveAssemblyReference.cache
+C:\Users\ING\Desktop\movies-cbsanchez\LaboratorioFinal\LaboratorioFinal\obj\Debug\LaboratorioFinal.Form1.resources
+C:\Users\ING\Desktop\movies-cbsanchez\LaboratorioFinal\LaboratorioFinal\obj\Debug\LaboratorioFinal.Properties.Resources.resources
+C:\Users\ING\Desktop\movies-cbsanchez\LaboratorioFinal\LaboratorioFinal\obj\Debug\LaboratorioFinal.csproj.GenerateResource.Cache
+C:\Users\ING\Desktop\movies-cbsanchez\LaboratorioFinal\LaboratorioFinal\obj\Debug\LaboratorioFinal.csproj.CoreCompileInputs.cache
+C:\Users\ING\Desktop\movies-cbsanchez\LaboratorioFinal\LaboratorioFinal\obj\Debug\LaboratorioFinal.exe
+C:\Users\ING\Desktop\movies-cbsanchez\LaboratorioFinal\LaboratorioFinal\obj\Debug\LaboratorioFinal.pdb
